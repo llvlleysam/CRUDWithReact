@@ -1,0 +1,172 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Shampoo",
+      "description": "Moisturizing and nourishing for all hair types",
+      "qyt": 25,
+      "price": 35000,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Conditioner",
+      "description": "Smooths and detangles hair",
+      "qyt": 30,
+      "price": 40000,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Body Wash",
+      "description": "Refreshing with natural extracts",
+      "qyt": 20,
+      "price": 28000,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Face Cream",
+      "description": "Hydrating and anti-aging formula",
+      "qyt": 15,
+      "price": 60000,
+      "available": false
+    },
+    {
+      "id": 5,
+      "name": "Hand Sanitizer",
+      "description": "Kills 99.9% of germs",
+      "qyt": 50,
+      "price": 15000,
+      "available": false
+    },
+    {
+      "id": 6,
+      "name": "Toothpaste",
+      "description": "Fluoride protection for strong teeth",
+      "qyt": 40,
+      "price": 18000,
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Mouthwash",
+      "description": "Fresh breath and healthy gums",
+      "qyt": 35,
+      "price": 25000,
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Deodorant",
+      "description": "Long-lasting odor protection",
+      "qyt": 45,
+      "price": 22000,
+      "available": false
+    },
+    {
+      "id": 9,
+      "name": "Hair Gel",
+      "description": "Strong hold and natural shine",
+      "qyt": 25,
+      "price": 30000,
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Shaving Cream",
+      "description": "Smooth and comfortable shave",
+      "qyt": 20,
+      "price": 27000,
+      "available": true
+    },
+    {
+      "id": 11,
+      "name": "Lip Balm",
+      "description": "Moisturizes and protects lips",
+      "qyt": 30,
+      "price": 12000,
+      "available": true
+    },
+    {
+      "id": 12,
+      "name": "Body Lotion",
+      "description": "Hydrating for soft skin",
+      "qyt": 22,
+      "price": 35000,
+      "available": false
+    },
+    {
+      "id": 13,
+      "name": "Sunscreen",
+      "description": "SPF 50+ protection",
+      "qyt": 18,
+      "price": 45000,
+      "available": true
+    },
+    {
+      "id": 14,
+      "name": "Aloe Vera Gel",
+      "description": "Soothes and heals skin",
+      "qyt": 28,
+      "price": 30000,
+      "available": false
+    },
+    {
+      "id": 15,
+      "name": "Face Mask",
+      "description": "Deep cleansing and detoxifying",
+      "qyt": 25,
+      "price": 38000,
+      "available": true
+    },
+    {
+      "id": 16,
+      "name": "Hair Serum",
+      "description": "Nourishes and strengthens hair",
+      "qyt": 30,
+      "price": 50000,
+      "available": true
+    },
+    {
+      "id": 17,
+      "name": "Essential Oils",
+      "description": "Relaxing and aromatic",
+      "qyt": 15,
+      "price": 42000,
+      "available": true
+    },
+    {
+      "id": 18,
+      "name": "Bath Bombs",
+      "description": "Fragrant and fizzy bath experience",
+      "qyt": 40,
+      "price": 25000,
+      "available": false
+    },
+    {
+      "id": 19,
+      "name": "Nail Polish",
+      "description": "Long-lasting and vibrant colors",
+      "qyt": 35,
+      "price": 20000,
+      "available": true
+    },
+    {
+      "id": 20,
+      "name": "Foot Cream",
+      "description": "Softens and refreshes tired feet",
+      "qyt": 22,
+      "price": 28000,
+      "available": true
+    },
+    {
+      "name": "llvlleysam",
+      "description": "bego mashalah",
+      "price": 5000,
+      "qyt": 5,
+      "available": false,
+      "id": 22
+    }
+  ]
+}
